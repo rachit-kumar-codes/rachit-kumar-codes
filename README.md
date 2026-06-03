@@ -62,7 +62,7 @@
 ## 📈 Contribution Graph
 
 ## Statistics 
-[![Rachit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mysteriork&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/mysteriork)
+[![Rachit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rachit-kumar-codes&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/rachit-kumar-codes)
 
 
 ## 🌐 Connect With Me
@@ -75,4 +75,4 @@
 
 ## 👀 Visitor Count
 
-![](https://komarev.com/ghpvc/?username=mysteriork&color=blueviolet&style=flat)
+![](https://komarev.com/ghpvc/?username=rachit-kumar-codes&color=blueviolet&style=flat)
